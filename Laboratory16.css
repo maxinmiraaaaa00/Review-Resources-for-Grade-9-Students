@@ -1,0 +1,27 @@
+p {
+	text-align: justify;
+	font-family: verdana;
+	text-indent: 50px;
+}
+
+#mainheading{
+	font-family: arial;
+}
+#linkheading {
+	text-align: center;
+	font-family: century gothic;
+}
+
+.logosmall{
+	width: 150px;
+	height: 150px;
+}
+.logolarge {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: auto;
+}
+.center {
+	text-align: center;
+}
